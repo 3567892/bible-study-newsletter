@@ -3,6 +3,15 @@
   overflow: hidden;
 }
 
+.topnav p{
+float: left;
+  color: #FFA4A4;
+  text-align: center; 
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
 .topnav a {
   float: right;
   color: #FFA4A4;
