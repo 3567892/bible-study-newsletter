@@ -64,6 +64,8 @@ body {
   padding: 40px 5%;
   flex-wrap: wrap; /* Ensures elements wrap on smaller screens */
   gap: 20px; /* Adds spacing between elements */
+  position: absolute;
+  bottom:0;
 }
 
 
